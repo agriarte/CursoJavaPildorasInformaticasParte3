@@ -1,0 +1,3 @@
+# CursoJavaPildorasInformaticasParte3
+
+Retomo el curso de Java de www.pildorasinformaticas.com donde lo dejé, repasando algunos temas que se han actualizado. He cambiado de IDE a NetBeans con Maven. Sin embargo, al colocar todos los capítulos en un mismo proyecto Maven, solo está configurado para el primer proyecto. Para ejecutar cada ejercicio sin obtener errores de Maven, debes aplicar la opción 'Run File...' correspondiente a cada ejercicio por separado.
